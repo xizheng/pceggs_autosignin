@@ -1,0 +1,31 @@
+{
+  "name": "pceggs_autosignin",
+  "version": "0.0.1",
+  "description": "pceggs auto signin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xizheng/pceggs_autosignin.git"
+  },
+  "keywords": [
+    "pceggs",
+    "signin",
+    "node"
+  ],
+  "author": "Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xizheng/pceggs_autosignin/issues"
+  },
+  "homepage": "https://github.com/xizheng/pceggs_autosignin#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
